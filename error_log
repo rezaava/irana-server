@@ -1,0 +1,8 @@
+[11-May-2022 18:46:39 Asia/Tehran] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.4.28. in /home/atmateam/irana.atmateam.com/core/vendor/composer/platform_check.php on line 24
+[28-Aug-2022 04:49:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:49:27 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:49:37 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:49:47 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:49:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:50:07 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463
+[28-Aug-2022 04:50:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\HomeController::addBrand() in /home/atmateam/irana.atmateam.com/core/app/Http/Controllers/Api/HomeController.php on line 463

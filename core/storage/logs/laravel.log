@@ -1,0 +1,72 @@
+[2026-09-26 16:35:30] local.INFO: EXCELL START: 2026-08-23  
+[2026-09-26 16:35:30] local.INFO: EXCELL END: 2026-09-22 23:59:59  
+[2026-09-26 16:35:30] local.INFO: EXCELL REQUEST COUNT: 0  
+[2026-09-26 16:35:30] local.INFO: EXCELL DATA:  
+[2026-09-26 16:35:32] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2026-09-26 16:36:32] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2026-09-26 16:37:27] local.INFO: EXCELL START: 2026/09/23  
+[2026-09-26 16:37:27] local.INFO: EXCELL END: 2026/10/22 23:59:59  
+[2026-09-26 16:37:27] local.INFO: EXCELL REQUEST COUNT: 2  
+[2026-09-26 16:37:27] local.INFO: EXCELL DATA: [{"id":1615,"parent":null,"code":"1405070002","deleted":0,"name":"سیمین پور","mobile":"09120208069","mobile2":null,"state":2,"city":null,"address":"اتوبان همدانی غرب بعد از تونل اولین خروجی ایران خودرو شمال شهرک چیتگر خیابان نارون برج ارکیده ۱۰ واحد ۲۳۰۸","device_type":"ساید","device_brand":"جنرال الکتریک_GE","problem":"ارور hrc","description":null,"repairman_id":63,"status":1,"end":1,"sum":15500000,"abzar":2000000,"porsant":13500000,"end_description":null,"abzar_details":"تعمیر برد","time":"2026/09/24","cleared":0,"created_at":"2026-09-24T14:12:12.000000Z","updated_at":"2026-09-24T14:13:19.000000Z","state_model":{"App\\Models\\State":{"id":2,"name":"تهران","code":"9821","created_at":"2019-08-01T00:00:00.000000Z","updated_at":"2019-08-01T00:00:00.000000Z"}},"repairman_model":{"App\\Models\\User":{"id":63,"specials":"[]","name":"علی","family":"عبداللهی","image":"/09336407375_1666927217.jpg","national_image":"/national_09336407375_1666927217.jpg","national_code":"4431883691","active":1,"delete":0,"birth_city":"یزد","address":"خیابان ابوذر انتهای خیابان عاشری کوچه احمدی پلاک 11","sarbazi":1,"married":1,"degree":"دیپلم","reshte":"مکانیک","picture":null,"state":2,"city":2,"mobile":"09336407375","sms":null,"birthdate":"1362/08/13","created_at":"2022-10-28T03:20:18.000000Z","updated_at":"2026-09-24T16:58:58.000000Z"}}},{"id":1605,"parent":null,"code":"1405070001","deleted":0,"name":"جولایی","mobile":"09198157482","mobile2":null,"state":2,"city":null,"address":"خیابان آزادی، بلوار استادمعین، نرسیده به خیابان دامپزشکی، کوچه شهید آل احمد، واحد پنج ، طبقه سوم","device_type":"یخچال فریزر","device_brand":"سامسونگ_SAMSUNG","problem":"کف فریزر یخ میزند","description":"لامپ یخچال همراه داشته باشید","repairman_id":42,"status":1,"end":1,"sum":6800000,"abzar":400000,"porsant":6400000,"end_description":null,"abzar_details":"درین و سنسور","time":"2026/09/24","cleared":0,"created_at":"2026-09-24T09:16:59.000000Z","updated_at":"2026-09-24T13:39:27.000000Z","state_model":{"App\\Models\\State":{"id":2,"name":"تهران","code":"9821","created_at":"2019-08-01T00:00:00.000000Z","updated_at":"2019-08-01T00:00:00.000000Z"}},"repairman_model":{"App\\Models\\User":{"id":42,"specials":"[]","name":"مهرشاد","family":"نجفی","image":"/09052846658_1671093371.jpg","national_image":"/national_09052846658_1666618097.jpg","national_code":"2620606421","active":1,"delete":0,"birth_city":"تالش","address":"کارون نرسیده به هاشمی کوچه فرجی پلاک ۴","sarbazi":0,"married":0,"degree":"دیپلم","reshte":"انسانی","picture":null,"state":2,"city":2,"mobile":"09052846658","sms":"1111","birthdate":"1382/12/26","created_at":"2022-06-21T09:19:24.000000Z","updated_at":"2026-05-14T13:56:39.000000Z"}}}] 
+[2026-09-26 16:37:32] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
+[2026-09-26 16:38:32] local.ERROR: Uncaught ReflectionException: Class "App\Policies\ModelPolicy" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Uncaught ReflectionException: Class \"App\\Policies\\ModelPolicy\" does not exist in Command line code:1
+Stack trace:
+#0 Command line code(1): ReflectionClass->__construct()
+#1 [internal function]: {closure:Command line code:1}()
+#2 Command line code(1): array_map()
+#3 {main}
+  thrown at Command line code:1)
+[stacktrace]
+#0 {main}
+"} 
